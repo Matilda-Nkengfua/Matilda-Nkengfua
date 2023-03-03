@@ -5,8 +5,7 @@
 <h1>Hello <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height="50px" alt="wave"></h1>
 
 <p align="center">    
-    
-   
+     
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Matilda-Nkengfua.Matilda-Nkengfua)
   
