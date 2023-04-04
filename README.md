@@ -12,8 +12,7 @@
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Matilda-Nkengfua.Matilda-Nkengfua)
   
-  
-</p>
+  </p>
 
 <div size="20px">
   Hello! I am Matilda Nkengfua. A Cloud/DevOps Engineer, AWS Solutions Architect. Thank you for taking the time to view my GitHub Profile 
