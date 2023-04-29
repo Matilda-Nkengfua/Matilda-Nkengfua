@@ -9,7 +9,7 @@
 
   
    
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Matilda-Nkengfua.Matilda-Nkengfua)  
+  ![visitors]([https://visitor-badge.glitch.me/badge?page_id=Matilda-Nkengfua.Matilda-Nkengfua](https://page-views.glitch.me/badge?page_id=jwenjian.visitor-badge))  
   
   
 </p>
